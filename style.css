@@ -1,0 +1,44 @@
+body {
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+.header{
+float: right;
+}
+.header a, .header button{
+    margin: 10px;
+    color: #000;
+}
+.header button{
+    background: blue;
+    padding: 8px;
+    font-size: 12px;
+    color: cornsilk;
+    font-weight: bold;
+}
+.main{
+    text-align: center;
+}
+.main img {
+    margin-left: 250px;
+    margin-top: 10%;
+}
+.Search-bar input{
+height: 30px;
+width: 390px;
+margin-right: 0.2%;
+}
+.Buttons{
+    margin-top: 1%;
+}
+.bottom{
+    margin-top: 1%;
+}
+.footer{
+    margin-top: 10%;
+    padding: 0.5%;
+}
+.div-right{
+    float: right;
+}
